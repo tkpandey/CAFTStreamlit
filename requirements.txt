@@ -1,0 +1,4 @@
+streamlit
+pillow==10.4.0
+Tensorflow ==2.13.0
+gdown
